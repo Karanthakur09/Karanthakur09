@@ -7,7 +7,8 @@
 
 
 <p align="center" height="200px">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FChill-Mario-2023-ver-953012885&psig=AOvVaw0Fhx0dLE8kdjpXgEN1z6bh&ust=1705079837020000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi1gMfr1YMDFQAAAAAdAAAAABAD">
+  <img src="![image](https://github.com/Karanthakur09/Karanthakur09/assets/89581593/d82d3c31-20d9-48b6-bc67-47909544bd29)
+">
 </p>
 
 
