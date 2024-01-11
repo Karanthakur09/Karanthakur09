@@ -6,9 +6,8 @@
 
 
 
-<p align="center" height="200px">
-  <img src="![image](https://github.com/Karanthakur09/Karanthakur09/assets/89581593/d82d3c31-20d9-48b6-bc67-47909544bd29)
-">
+<p align="center" >
+  <img src="![image](https://github.com/Karanthakur09/Karanthakur09/assets/89581593/50a6056d-50c6-43e6-b347-355b71966166)">
 </p>
 
 
