@@ -7,7 +7,7 @@
 
 
 <p align="center" height="200px">
-  <img src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif">
 </p>
 
 
