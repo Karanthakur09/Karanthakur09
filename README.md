@@ -7,7 +7,7 @@
 
 
 <p align="center" >
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fgifwallpaper%2Fcomments%2Fo5jguc%2Fcoding_mario%2F&psig=AOvVaw1hJ3NaZ-SvA2hne84jjNb7&ust=1705270128224000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiBi7Sw24MDFQAAAAAdAAAAABAP">
+  <img src="![image](https://github.com/Karanthakur09/Karanthakur09/assets/89581593/5032ec17-3a2c-4df3-96b2-746683bc6818)">
 </p>
 
 
