@@ -7,7 +7,7 @@
 
 
 <p align="center" >
-  ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMzdsXs6t3En5jiLA-wQC7rBlFcTg52-tBzOyP7znNKP3e8qdSyFoWyxJGCBBrQ7Dytd0&usqp=CAU)
+ ![image](https://github.com/Karanthakur09/Karanthakur09/assets/89581593/f7536642-8459-417e-95eb-c786de986351)
 </p>
 
 
