@@ -7,7 +7,7 @@
 
 
 <p align="center" >
-  <img src="![image](https://github.com/Karanthakur09/Karanthakur09/assets/89581593/5032ec17-3a2c-4df3-96b2-746683bc6818)">
+  <img src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af">
 </p>
 
 
